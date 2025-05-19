@@ -3,9 +3,9 @@
 ![UberIMG](https://github.com/user-attachments/assets/faa1543d-6ee4-488c-abde-e05accc6446a)
 
 
-### Objective
+## Objective
 * Uber Rides Data Analysis
-### Defining Data Analysis:
+## Defining Data Analysis:
 Data Analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
 
 <ins>The process of data analysis would include all these steps</ins>
@@ -28,8 +28,8 @@ The analysis will be done using the following libraries :
 * Matplotlib / Seaborn: This library is used to draw visualizations.
 
 ## The Dataset
-Path: https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
-
+### Path:
+https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 
 ### Columns:
 
