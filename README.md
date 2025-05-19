@@ -15,13 +15,13 @@ The analysis will be done using the following libraries :
 Path: https://www.kaggle.com/datasets/ruchikakumbhar/uber-dataset
 
 
-Columns:
+### Columns:
 
-START_DATE : Date and time when the ride started
-END_DATE : Date and time when the ride stopped
-CATEGORY : business/personal
-START : start location
-STOP : destination
-MILES : distance covered
-PURPOSE : purpose of the ride
+- START_DATE : Date and time when the ride started
+- END_DATE : Date and time when the ride stopped
+- CATEGORY : business/personal
+- START : start location
+- STOP : destination
+- MILES : distance covered
+- PURPOSE : purpose of the ride
 
