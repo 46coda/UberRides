@@ -8,7 +8,7 @@
 ### Defining Data Analysis:
 Data Analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
 
-The process of data analysis would include all these steps
+<ins>The process of data analysis would include all these steps</ins>
 
 * Defining the problem statement - Understand the goal, and what is needed to be done. In this case, our problem statement is - "The product is mostly sold out and list of customers who often visit the store." 
 * Collection of data -  Not all the company's data is necessary, understand the relevant data according to the problem. Here the required columns are product ID, customer ID, and date visited.
