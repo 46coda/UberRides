@@ -1,5 +1,18 @@
 # UberRides
-Uber Rides Dataset for Data Analysis and Visualization
+
+### Objective
+* Uber Rides Data Analysis
+### Defining Data Analysis:
+Data Analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making.
+
+The process of data analysis would include all these steps
+
+* Defining the problem statement - Understand the goal, and what is needed to be done. In this case, our problem statement is - "The product is mostly sold out and list of customers who often visit the store." 
+* Collection of data -  Not all the company's data is necessary, understand the relevant data according to the problem. Here the required columns are product ID, customer ID, and date visited.
+* Preprocessing - Cleaning the data is mandatory to put it in a structured format before performing analysis. 
+  - Removing outliers( noisy data).
+  - Removing null or irrelevant values in the columns. (Change null values to mean value of that column.)
+  - If there is any missing data, either ignore the tuple or fill it with a mean value of the column.
 
 ## Programming language ##
 * Python 
